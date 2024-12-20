@@ -18,8 +18,8 @@ gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2)
 Update to gcc-10 to avoid the error
 
 ```bash
-# apt install gcc-10
-# ln -s /usr/bin/gcc-10 /usr/bin/gcc
+$ sudo apt install gcc-10
+$ sudo ln -s /usr/bin/gcc-10 /usr/bin/gcc
 
 $ gcc -v
 gcc version 10.5.0 (Ubuntu 10.5.0-1ubuntu1~20.04)
