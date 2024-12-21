@@ -8,4 +8,3 @@
   - https://qiita.com/masru0714/items/f64c0081551276c16004
 - Jekyll - Variables
   - https://jekyllrb.com/docs/variables/
-- 
