@@ -17,3 +17,9 @@ $ source ~/.config/ghidra/ghidra_<VERSION>_PUBLIC/venv/bin/activate
 (venv)$ pip3 install <PACKAGE>
 (venv)$ deactivate
 ```
+
+or
+
+```bash
+$ ~/.config/ghidra/ghidra_<VERSION>_PUBLIC/venv/bin/pip3 install <PACKAGE>
+```
