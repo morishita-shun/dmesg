@@ -1,5 +1,13 @@
 ## PyGhidra
 
+### install python3.12 (if needed)
+```bash
+$ sudo add-apt-repository ppa:deadsnakes/ppa
+$ sudo apt update -y
+$ sudo apt install -y python3.12 python3.12-venv
+$ curl -sS https://bootstrap.pypa.io/get-pip.py | python3.12
+```
+
 ### make venv
 ```bash
 $ ./<GHIDRA_INSTALL_DIR>/support/pyghidraRun
