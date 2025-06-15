@@ -13,4 +13,8 @@ pip3 install system-calls
 >>> syscall_arch = "arm"
 >>> syscalls.get("write", syscall_arch)
 4
+
+>>> syscalls = system_calls.syscalls_arm
+>>> syscalls.get("write")
+4
 ```
