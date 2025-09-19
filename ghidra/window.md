@@ -1,5 +1,14 @@
 ## Window
 
+### Bookmarks
+- Bookmarksを追加
+  - Listing内で右クリック->[Bookmarks...] (Ctrl-D)
+- Bookmarksに移動
+  - Bookmarksウィンドウ内の対象Bookmarksをダブルクリック
+
+### Bundle Manager
+- ghidra_scriptsフォルダの設定
+
 ### Bytes
 - Enable/Disable editing of bytes in Byte Viewer panels. (Ctrl+Alt+E)
   - 命令(instruction)以外のバイト列を書き換え可能
