@@ -27,3 +27,39 @@
 ## Console
 - Scroll Lock
 - Clear Console
+
+## Data Type Manager
+- 右クリック->New
+  - Category
+  - Enum...
+  - Function Definition...
+  - Structure...
+  - Typedef...
+  - Union...
+
+## Data Type Preview
+- Listing内で選択したアドレスを複数のデータ型で認識したときのプレビューを表示
+  - byte
+  - char
+  - double
+  - dword
+  - float
+  - qword
+  - TerminatedCString
+  - TerminatedUnicode
+  - word
+
+## Decompile
+- 右クリック
+  - Previous Highlight (Ctrl+Comma)
+  - Next Highlight (Ctrl+Period)
+  - Find... (Ctrl+F)
+    - StringとRegular Expressionで検索
+  - Properties
+    - DecompilerのOptionsを設定
+- ツールバー
+  - Export current function to C
+  - Create a snapshot (disconnected) copy of this Decompiler window (Ctrl+Shift+T)
+
+## Defined Data
+- プログラム内に定義されたデータの内容、位置、タイプ、サイズを表示
