@@ -1,25 +1,29 @@
-## Window
+# Window
 
-### Bookmarks
+## Bookmarks
 - Bookmarksを追加
   - Listing内で右クリック->[Bookmarks...] (Ctrl-D)
 - Bookmarksに移動
   - Bookmarksウィンドウ内の対象Bookmarksをダブルクリック
 
-### Bundle Manager
+## Bundle Manager
 - ghidra_scriptsフォルダの設定
 
-### Bytes
+## Bytes
 - Enable/Disable editing of bytes in Byte Viewer panels. (Ctrl+Alt+E)
   - 命令(instruction)以外のバイト列を書き換え可能
 - Set Byte Viewer Options
   - 行当たりのバイト数変更
   - Ascii文字の表示
 
-### Checksum Generator
+## Checksum Generator
 - Listing内で選択したアドレスレンジのバイト列のチェックサムを計算
 
-### Comments
+## Comments
 - コメントの一覧を表示
   - Filterで絞り込み
   - ダブルクリックで移動
+
+## Console
+- Scroll Lock
+- Clear Console
