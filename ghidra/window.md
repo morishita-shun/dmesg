@@ -15,3 +15,11 @@
 - Set Byte Viewer Options
   - 行当たりのバイト数変更
   - Ascii文字の表示
+
+### Checksum Generator
+- Listing内で選択したアドレスレンジのバイト列のチェックサムを計算
+
+### Comments
+- コメントの一覧を表示
+  - Filterで絞り込み
+  - ダブルクリックで移動
