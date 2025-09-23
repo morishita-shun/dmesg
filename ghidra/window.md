@@ -66,3 +66,15 @@
 
 ## Defined Strings
 - プログラム内に定義された文字列の内容、位置、タイプを表示
+
+## Disassembled View
+- 選択箇所以降の5行のディスアセンブル結果を表示
+
+## Equates Table
+- 設定したEquatesの情報を表示
+  - 設定前は何も表示されない
+
+## External Programs
+- 外部ライブラリの解析結果を設定
+  - シンボルの紐づけ等に使われる
+    - https://x.com/RabbitPro/status/1422664848584884228
