@@ -78,3 +78,19 @@
 - 外部ライブラリの解析結果を設定
   - シンボルの紐づけ等に使われる
     - https://x.com/RabbitPro/status/1422664848584884228
+
+## Function Call Graph
+- 関数の呼び出し関係をグラフ化
+
+## Function Call Trees
+- 関数の呼び出し関係をIncoming/Outgoingに分けてツリー化
+  - Filterで絞り込み可能
+
+## Function Graph
+- 関数内の命令遷移をグラフ化
+  - グラフ構造の種類を設定
+    - Nested Code Layout
+    - Flow Chart
+    - Flow Chart (Left)
+    - Compact Hierarchical
+    - ...
