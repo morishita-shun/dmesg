@@ -1,4 +1,4 @@
-## c-libraries
+# c-libraries
 
 use file/ldd command to check C libraries
 - glibc: `/lib64/ld-linux-x86-64.so.2`

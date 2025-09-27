@@ -1,6 +1,6 @@
-## ghidra-gdb
+# ghidra-gdb
 
-### Usage
+## Usage
 - Open Debugger
   - [Tool Chest] -> [Debugger]
 - Open File

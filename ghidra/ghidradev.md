@@ -1,6 +1,6 @@
-## GhidraDev
+# GhidraDev
 
-### setup
+## setup
 - Install [Eclipse IDE for Java Developers]
   - https://www.eclipse.org/downloads/packages/
 

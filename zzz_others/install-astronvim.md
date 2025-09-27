@@ -1,4 +1,4 @@
-## Install latest neovim
+# Install latest neovim
 
 ```bash
 apt remove neovim
@@ -11,7 +11,7 @@ mv squashfs-root/usr/share/nvim /usr/local/share/nvim
 rm -r nvim-linux-x86_64.appimage squashfs-root/
 ```
 
-## Install AstroNvim
+# Install AstroNvim
 ```bash
 mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak

@@ -1,7 +1,7 @@
-## GitHub Pages
+# GitHub Pages
 - https://pages.github.com/
 
-### show directory listing
+## show directory listing
 - How to enable automatic directory indexing/listing on GitHub Pages
   - [https://ongclement.com/blog/github-pages-indexing-directory-copy](https://ongclement.com/blog/github-pages-indexing-directory-copy)
 - Github Pagesで、ディレクトリのファイル一覧を自動生成する

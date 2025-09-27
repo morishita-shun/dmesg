@@ -1,8 +1,8 @@
-## system-calls
+# system-calls
 - https://pypi.org/project/system-calls/
 - https://github.com/hrw/syscalls-table
 
-### Usage
+## Usage
 ```bash
 pip3 install system-calls
 ```
