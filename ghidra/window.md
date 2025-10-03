@@ -94,3 +94,7 @@
     - Flow Chart (Left)
     - Compact Hierarchical
     - ...
+
+## Function Tags
+- 関数に任意のタグを設定
+  - 特定タグに該当する関数一覧を表示可能
