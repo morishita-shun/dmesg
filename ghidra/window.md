@@ -98,3 +98,10 @@
 ## Function Tags
 - 関数に任意のタグを設定
   - 特定タグに該当する関数一覧を表示可能
+
+## Functions
+- 全関数の情報を表示
+  - Name
+  - Location
+  - Function Signature
+  - Function Size
