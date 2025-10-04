@@ -130,3 +130,10 @@
     - Add/Edit...
     - Show References To Address
     - Show Call Trees fro [func]
+- ツールバー
+  - Edit the Listing fields
+  - Open Diff View
+  - Create a snapshot (disconnected) copy of this Listing window (Ctrl+Shift+T)
+  - Toggles overview margin displays.
+    - Show Entropy
+    - Show Overview
