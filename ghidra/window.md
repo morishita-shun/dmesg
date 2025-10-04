@@ -105,3 +105,28 @@
   - Location
   - Function Signature
   - Function Size
+
+## Jython
+- Jythonインタプリタ（Python2）
+  - Clear Interpreter
+  - Interrupt Interpreter (Ctrl+I)
+  - Reset Interpreter (Ctrl+D)
+
+## Listing
+- 右クリック
+  - Instruction Info
+  - Modify Instruction Length...
+  - Create Function
+  - Create Thunk Function
+  - Function
+    - Set Stack Depth Change...
+    - Compare Function(s)
+  - Add Label...
+  - Set Register Values...
+  - Colors
+    - Set Color
+  - References
+    - Add Reference from...
+    - Add/Edit...
+    - Show References To Address
+    - Show Call Trees fro [func]
