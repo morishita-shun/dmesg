@@ -137,3 +137,11 @@
   - Toggles overview margin displays.
     - Show Entropy
     - Show Overview
+
+## Memory Map
+- セクション毎に情報を表示
+- セクションの追加・編集・削除も可能
+
+## Program Trees
+- セクションのリストを表示
+- ダブルクリックで該当セクションの先頭に移動
