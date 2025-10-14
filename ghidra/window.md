@@ -145,3 +145,8 @@
 ## Program Trees
 - セクションのリストを表示
 - ダブルクリックで該当セクションの先頭に移動
+
+## PyGhidra
+- `[GHIDRA_INSTALL_DIR]/support/pyghidraRun`でGUIを起動する必要がある
+
+## Register Manager
